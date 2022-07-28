@@ -1,5 +1,5 @@
 programme = input("Hello, my name is Jarvis. What is your name?:")
-customer = str(programme)
+customer = programme
 
 print("Hello,", customer)
 programme_2 = input("Think of a number:")
